@@ -21,7 +21,7 @@ import com.jogamp.opengl.util.texture.Texture;
 import com.jogamp.opengl.util.texture.TextureIO;
 import com.jogamp.opengl.util.texture.awt.AWTTextureIO;
 
-public class A4 implements GLEventListener, KeyListener, MouseListener, MouseMotionListener {
+public class QBert implements GLEventListener, KeyListener, MouseListener, MouseMotionListener {
 	public static final boolean TRACE = false;
 	public static final String WINDOW_TITLE = "A4: [.Nitesh]";
 	public static final int INITIAL_WIDTH = 640;
